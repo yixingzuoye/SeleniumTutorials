@@ -112,7 +112,7 @@ b.current_url
 - find_element("id|name", "value")
 
 - 元素操作
-- clear() 清楚元素内容
+- clear() 清除元素内容
 - send_keys('追加内容') 模拟按键输入
 - click() 点击
 - submit() 提交表单
